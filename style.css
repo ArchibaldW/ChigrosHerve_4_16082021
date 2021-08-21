@@ -1117,3 +1117,27 @@ blockquote{
     line-height: 1.2;
     position: relative;
 }
+
+#section_title p{
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+#section_contact_form label{
+    width: 100%;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+#section_contact_form .help-block{
+    display: none;
+}
+
+#contact_adress{
+    font-size: 1.1em;
+    padding: 12px;
+}
+
+#contact_adress .icon_contact{
+    font-weight: 800;
+}
